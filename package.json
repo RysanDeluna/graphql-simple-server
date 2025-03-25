@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "babel": "^5.8.38",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "graphql": "^16.10.0"
+  }
+}
